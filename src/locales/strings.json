@@ -1,0 +1,47 @@
+{
+  "en": {
+    "home": {
+      "healthMessage": "Your Financial health looks great today!",
+      "healthMessagePoor": "Your Financial health needs attention.",
+      "healthMessageFair": "Your Financial health is improving.",
+      "healthMessageGood": "Your Financial health is good!",
+      "healthMessageExcellent": "Your Financial health looks great today!",
+      "greeting": "Hey there ! Wassup ??"
+    },
+    "summary": {
+      "title": "Summary",
+      "spending": "Spending",
+      "spendingDistribution": "Spending Distribution",
+      "goalCompletion": "Goal Completion",
+      "week": "Week",
+      "days30": "30 Days",
+      "days60": "60 Days",
+      "days90": "90 Days"
+    },
+    "chat": {
+      "inputPlaceholder": "What are we spending on today?",
+      "exampleQuestion": "I plan to buy a phone worth 70k",
+      "overall": "Overall :",
+      "pros": "Pros",
+      "cons": "Cons"
+    },
+    "categories": {
+      "rent": "Rent",
+      "emi": "EMI",
+      "miscellaneous": "Miscellaneous",
+      "grocery": "Grocery",
+      "travel": "Travel"
+    },
+    "avatar": {
+      "import": "Import Avatar",
+      "placeholder": "No avatar loaded",
+      "loading": "Loading avatar..."
+    },
+    "controls": {
+      "add": "Add",
+      "book": "Book",
+      "notifications": "Notifications",
+      "volume": "Volume"
+    }
+  }
+}
